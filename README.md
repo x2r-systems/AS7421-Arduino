@@ -3,8 +3,7 @@
 This is an Arduino library for the [AS7421](https://ams.com/en/as7421) 64-channel NIR sensor.
 
 The library is based on the datasheet and some reverse engineering to determine the correct register settings and
-interpretation of the data. Considering both production and support has been dropped I felt it is useful to have a library
-to interface with the sensor
+interpretation of the data.
 
 ## Limitations
 
